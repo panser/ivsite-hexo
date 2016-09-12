@@ -2,7 +2,9 @@
 
     <!-- Main Content -->
     <div class="col-sm-8 blog-main">
-        <%- partial('_partial/article-full', {item: page}) %>
+        <% page.posts.each(function(item){ %>
+            <%- partial('_partial/article-excerpt', {item: item}) %>
+        <% }); %>
     </div>
 
     <!-- Sidebar -->

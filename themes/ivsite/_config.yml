@@ -1,3 +1,9 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+
 # Content
 excerpt_link: Read More
 
@@ -6,5 +12,6 @@ disqus_shortname: ivsitehexo
 
 # Widgets List
 widgets:
-  about: This blog is based off the official bootstrap blog template. Checkout the corresponding tutorial at <a href="http://www.codeblocq.com">http://www.codeblocq.com</a
+  about: This blog is based off the official bootstrap blog template.
   tags: true
+  category: true
