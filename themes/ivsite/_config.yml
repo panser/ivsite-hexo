@@ -3,3 +3,8 @@ excerpt_link: Read More
 
 # Disqus Comments Shortname
 disqus_shortname: ivsitehexo
+
+# Widgets List
+widgets:
+  about: This blog is based off the official bootstrap blog template. Checkout the corresponding tutorial at <a href="http://www.codeblocq.com">http://www.codeblocq.com</a
+  tags: true
