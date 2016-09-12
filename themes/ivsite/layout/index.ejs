@@ -1,5 +1,21 @@
-<% page.posts.each(function(item){ %>
-    <%- partial('_partial/article-excerpt', {item: item}) %>
-<% }); %>
+<div class="container-fluid">
 
-<%- partial('_partial/pagination') %>
+    <div class="row">
+        <div class="col-sm-6">
+            <%- include _partial/index/news.html %>
+        </div>
+        <div class="col-sm-6">
+            <%- include _partial/index/rm-api.html %>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <%- include _partial/index/google-coworker.html %>
+        </div>
+        <div class="col-sm-6">
+            <%- include _partial/index/google-form.html %>
+        </div>
+    </div>
+
+</div>
+
