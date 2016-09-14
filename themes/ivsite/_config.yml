@@ -1,8 +1,8 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
-  Categories: /categories
+  Posts: /archives
+  Menu: /menu
 
 # Content
 excerpt_link: Read More

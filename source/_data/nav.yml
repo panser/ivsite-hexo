@@ -1,0 +1,26 @@
+- index: menu
+  items:
+    - title: Продукты
+      index: product
+      items:
+        - title: FileNet
+          index: filenet
+          items:
+            - title: FileNet
+              index: Filenet.html
+            - title: FileNet2
+              index: Filenet2.html
+        - title: IBM
+          index: ibm
+          items:
+            - title: IBM BPM
+              index: IBMBPM.html
+            - title: IBM Filenet
+              index: IBMFilenet.html
+    - title: Вакансии
+      index: job
+      items:
+      - title: Архитектор ESB
+        index: Architecture-ESB.html
+      - title: TeamLead
+        index: Team-Lead.html
