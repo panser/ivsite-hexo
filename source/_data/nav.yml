@@ -1,5 +1,7 @@
 - index: menu
   items:
+    - title: News
+      index: news
     - title: Продукты
       index: product
       items:
@@ -24,7 +26,10 @@
         index: Architecture-ESB.html
       - title: TeamLead
         index: Team-Lead.html
-    - title: Posts
-      index: archives
-    - title: SiteMap
-      index: menu
+    - title: For Developers
+      index: dev
+      items:
+      - title: Posts
+        index: archives
+      - title: SiteMap
+        index: menu
