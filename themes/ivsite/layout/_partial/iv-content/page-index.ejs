@@ -6,6 +6,7 @@
     <% navElement = navElement[0].items.filter(function(obj){ return obj.index === path; }) %>
 <%}) %>
 
+<a href="#" > <%= navElement[0].title %> </a>
 <ul>
     <% navElement[0].items.forEach(function (subMenu){ %>
     <li>
