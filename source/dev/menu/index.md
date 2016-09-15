@@ -1,3 +1,3 @@
-layout: layout_navbar
+layout: layout_sitemap
 
 ---

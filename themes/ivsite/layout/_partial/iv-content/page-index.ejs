@@ -1,0 +1,15 @@
+<% var paths = page.source.split("/") %>
+<% paths.splice(-1,1) %>
+
+<% var navElement = site.data.nav %>
+<% paths.forEach(function (path) { %>
+    <% navElement = navElement[0].items.filter(function(obj){ return obj.index === path; }) %>
+<%}) %>
+
+<ul>
+    <% navElement[0].items.forEach(function (subMenu){ %>
+    <li>
+        <a href="<%= subMenu.index %>" > <%= subMenu.title %> </a>
+    </li>
+    <% }) %>
+</ul>

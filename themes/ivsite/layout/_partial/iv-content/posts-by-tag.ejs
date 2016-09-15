@@ -1,0 +1,6 @@
+<% var allByTag = site.tags.findOne({name: page.show_tag}) %>
+<% if (allByTag){ %>
+    <% allByTag.posts.sort('-date').slice(0, page.show_number).forEach(function(post) { %>
+        <%- partial('_partial/article-excerpt', {item: post}) %>
+    <% }) %>
+<% } %>

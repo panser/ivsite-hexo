@@ -1,15 +1,13 @@
-<% var paths = page.source.split("/") %>
-<% paths.splice(-1,1) %>
+<div class="row">
 
-<% var navElement = site.data.nav %>
-<% paths.forEach(function (path) { %>
-    <% navElement = navElement[0].items.filter(function(obj){ return obj.index === path; }) %>
-<%}) %>
+    <!-- Main Content -->
+    <div class="col-sm-8 blog-main">
+        <%- partial('_partial/iv-content/page-index.ejs', {item: page}) %>
+    </div>
 
-<ul>
-    <% navElement[0].items.forEach(function (subMenu){ %>
-        <li>
-            <a href="<%= subMenu.index %>" > <%= subMenu.title %> </a>
-        </li>
-    <% }) %>
-</ul>
+    <!-- Sidebar -->
+    <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+        <%- partial('_partial/sidebar') %>
+    </div>
+
+</div>
