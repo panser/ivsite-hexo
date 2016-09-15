@@ -29,6 +29,9 @@
                                 <% for (var item2 in menu[item].items){ %>
                                 <% var linkLevel2 = linkLevel1 + "/" + menu[item].items[item2].index %>
                                 <li class="dropdown">
+                                    <% if (menu[item].items[item2].link){ %>
+                                        <% linkLevel2 = menu[item].items[item2].link %>
+                                    <% } %>
                                     <a href="<%= linkLevel2 %>" > <%= menu[item].items[item2].title %> </a>
                                 </li>
                                 <% } %>
@@ -38,6 +41,9 @@
                     <% } else { %>
 
                         <li>
+                            <% if (menu[item].link){ %>
+                                <% linkLevel1 = menu[item].link %>
+                            <% } %>
                             <a href="<%= linkLevel1 %>" > <%= menu[item].title %> </a>
                         </li>
 

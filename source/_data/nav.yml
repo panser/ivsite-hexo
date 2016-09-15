@@ -31,5 +31,6 @@
       items:
       - title: Posts
         index: archives
+        link: /archives
       - title: SiteMap
         index: menu
