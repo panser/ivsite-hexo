@@ -24,3 +24,7 @@
         index: Architecture-ESB.html
       - title: TeamLead
         index: Team-Lead.html
+    - title: Posts
+      index: archives
+    - title: SiteMap
+      index: menu
