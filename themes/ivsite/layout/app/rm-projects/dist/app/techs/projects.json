@@ -1,0 +1,277 @@
+{
+  "projects": [
+    {
+      "id": 118375,
+      "name": "BB68",
+      "identifier": "bb68",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T07:53:00.000Z",
+      "updated_on": "2016-08-30T07:53:00.000Z"
+    },
+    {
+      "id": 118458,
+      "name": "bhmap",
+      "identifier": "bhmap",
+      "description": "testing redmine",
+      "status": 5,
+      "is_public": true,
+      "created_on": "2016-08-31T11:53:43.000Z",
+      "updated_on": "2016-08-31T11:53:43.000Z"
+    },
+    {
+      "id": 118457,
+      "name": "Biapa Test project",
+      "identifier": "biapa",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T11:42:03.000Z",
+      "updated_on": "2016-08-31T11:42:03.000Z"
+    },
+    {
+      "id": 118480,
+      "name": "BM Test project",
+      "identifier": "bm-test-project",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T14:19:19.000Z",
+      "updated_on": "2016-08-31T14:19:19.000Z"
+    },
+    {
+      "id": 118439,
+      "name": "CBUS Impls",
+      "identifier": "cbus-impls",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T07:55:30.000Z",
+      "updated_on": "2016-08-31T07:55:30.000Z"
+    },
+    {
+      "id": 118442,
+      "name": "HYBEL 2016",
+      "identifier": "hybel-2016",
+      "description": "Hybel support project in 2016",
+      "parent": {
+        "id": 118439,
+        "name": "CBUS Impls"
+      },
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T08:15:42.000Z",
+      "updated_on": "2016-08-31T08:15:42.000Z"
+    },
+    {
+      "id": 118444,
+      "name": "LHCS 2016",
+      "identifier": "lhcs-2016",
+      "description": "LHCS support project for 2016",
+      "parent": {
+        "id": 118439,
+        "name": "CBUS Impls"
+      },
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T08:16:24.000Z",
+      "updated_on": "2016-08-31T08:16:24.000Z"
+    },
+    {
+      "id": 118443,
+      "name": "TUTAN 2016",
+      "identifier": "tutan-2016",
+      "description": "tutan support project for 2016",
+      "parent": {
+        "id": 118439,
+        "name": "CBUS Impls"
+      },
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T08:16:07.000Z",
+      "updated_on": "2016-08-31T08:16:07.000Z"
+    },
+    {
+      "id": 118368,
+      "name": "demo",
+      "identifier": "demo1",
+      "description": "test thử thôi",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T04:54:00.000Z",
+      "updated_on": "2016-08-30T04:54:00.000Z"
+    },
+    {
+      "id": 118456,
+      "name": "Denemeye Deger",
+      "identifier": "denemeye-deger",
+      "description": "Takip edelim",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T11:19:57.000Z",
+      "updated_on": "2016-08-31T11:19:57.000Z"
+    },
+    {
+      "id": 118370,
+      "name": "ELSA",
+      "identifier": "elsa",
+      "description": "Ein Testprojekt",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T06:47:23.000Z",
+      "updated_on": "2016-08-30T06:47:23.000Z"
+    },
+    {
+      "id": 118386,
+      "name": "ewqeqweqwe",
+      "identifier": "ewqeqweqwe",
+      "description": "qweqwqweqw",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T10:28:59.000Z",
+      "updated_on": "2016-08-30T10:28:59.000Z"
+    },
+    {
+      "id": 118421,
+      "name": "FUR30",
+      "identifier": "fur30",
+      "description": "PROYECTO INVESTIGACION",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T19:34:37.000Z",
+      "updated_on": "2016-08-30T19:34:37.000Z"
+    },
+    {
+      "id": 118448,
+      "name": "gbws to x86 / PLUG",
+      "identifier": "gbws-to-x86",
+      "description": "Testprojekt um Redmine zu testen.",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T10:14:50.000Z",
+      "updated_on": "2016-08-31T10:15:52.000Z"
+    },
+    {
+      "id": 118449,
+      "name": "hdpro",
+      "identifier": "hdpro",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T10:18:14.000Z",
+      "updated_on": "2016-08-31T10:18:14.000Z"
+    },
+    {
+      "id": 118408,
+      "name": "HTML5",
+      "identifier": "html5",
+      "description": "This is a test project for HTML5",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T15:46:21.000Z",
+      "updated_on": "2016-08-30T15:46:21.000Z"
+    },
+    {
+      "id": 118420,
+      "name": "Investigación me",
+      "identifier": "investigacion-me",
+      "description": "El objetivo de este proyecto como muchos proyectos es proveer un marco original en al arte\r\nde no decir nada, nada es lo que uno hace cuando está en el agua, si uno no nada\r\nse ahoga, de ahi la importancia de este proyecto al no decir nada.",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T19:30:28.000Z",
+      "updated_on": "2016-08-30T19:30:28.000Z"
+    },
+    {
+      "id": 118390,
+      "name": "Joomla Website update 1.5 t0 3.o in 3 days ",
+      "identifier": "joomla-website-update-1-5-t0-3-o-in-3-days",
+      "description": "Joomla Website update 1.5 t0 3.o in 3 days ",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T12:03:34.000Z",
+      "updated_on": "2016-08-30T12:03:34.000Z"
+    },
+    {
+      "id": 118412,
+      "name": "juraj-1",
+      "identifier": "juraj-1",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T17:36:17.000Z",
+      "updated_on": "2016-08-30T17:36:17.000Z"
+    },
+    {
+      "id": 118378,
+      "name": "kerniTest",
+      "identifier": "kernitest",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T08:35:18.000Z",
+      "updated_on": "2016-08-30T08:35:18.000Z"
+    },
+    {
+      "id": 118384,
+      "name": "Sub2",
+      "identifier": "sub2",
+      "description": "",
+      "parent": {
+        "id": 118378,
+        "name": "kerniTest"
+      },
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T09:25:16.000Z",
+      "updated_on": "2016-08-30T09:25:16.000Z"
+    },
+    {
+      "id": 118383,
+      "name": "TestSub",
+      "identifier": "testsub",
+      "description": "",
+      "parent": {
+        "id": 118378,
+        "name": "kerniTest"
+      },
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T09:22:11.000Z",
+      "updated_on": "2016-08-30T09:22:11.000Z"
+    },
+    {
+      "id": 118372,
+      "name": "kicumkicum-test",
+      "identifier": "kicumkicum-test",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-30T06:55:39.000Z",
+      "updated_on": "2016-08-30T06:55:39.000Z"
+    },
+    {
+      "id": 118482,
+      "name": "KUN-PRO",
+      "identifier": "kun-pro",
+      "description": "",
+      "status": 1,
+      "is_public": true,
+      "created_on": "2016-08-31T14:43:56.000Z",
+      "updated_on": "2016-08-31T14:43:56.000Z"
+    },
+    {
+      "id": 118394,
+      "name": "Kurdistan cities",
+      "identifier": "kurdistan-cities",
+      "description": "city management app",
+      "status": 5,
+      "is_public": true,
+      "created_on": "2016-08-30T12:27:08.000Z",
+      "updated_on": "2016-08-30T12:27:08.000Z"
+    }
+  ],
+  "total_count": 79,
+  "offset": 0,
+  "limit": 25
+}
