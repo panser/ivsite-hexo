@@ -1,4 +1,13 @@
-var lock = new Auth0Lock('9akDZGVintjekbwMaHKFdwHYpKfahkbr', 'panser.eu.auth0.com');
+var lock = new Auth0Lock('9akDZGVintjekbwMaHKFdwHYpKfahkbr', 'panser.eu.auth0.com', {
+    theme: {
+        logo: "/img/iv-logo.png",
+        // primaryColor: 'green'
+    },
+    languageDictionary: {
+        // emailInputPlaceholder: "something@youremail.com",
+        title: "Integrity Vision",
+    }
+});
 
 var btn_login = document.getElementById('btn-login');
 var btn_logout = document.getElementById('btn-logout');
