@@ -1,6 +1,8 @@
 var lock = new Auth0Lock('9akDZGVintjekbwMaHKFdwHYpKfahkbr', 'panser.eu.auth0.com');
 
 var btn_login = document.getElementById('btn-login');
+var btn_logout = document.getElementById('btn-logout');
+
 btn_login.addEventListener('click', function() {
     lock.show();
 });
@@ -39,12 +41,12 @@ var show_profile_info = function(profile) {
     avatar.src = profile.picture;
     avatar.style.display = "block";
     btn_logout.style.display = "block";
+
+    var dropdownDivLogout = document.getElementById('dropdown-div-logout');
+    dropdownDivLogout.style.display = "block";
 };
 
-retrieve_profile();
 
-
-var btn_logout = document.getElementById('btn-logout');
 var logout = function() {
     localStorage.removeItem('id_token');
     window.location.href = "/";
@@ -52,3 +54,6 @@ var logout = function() {
 btn_logout.addEventListener('click', function() {
     logout();
 });
+
+
+retrieve_profile();
