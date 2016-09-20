@@ -180,3 +180,11 @@ h6, .h6 {
 .blog-footer p:last-child {
     margin-bottom: 0;
 }
+
+
+.navbar img {
+    height: 50px;
+    /*height: 100%;*/
+    padding: 5px;
+    width: auto;
+}
