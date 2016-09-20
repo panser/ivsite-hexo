@@ -1,0 +1,69 @@
+<% var path1 = page.path.split("/index.html") %>
+<% var paths = path1[0].split("/") %>
+<% var currentIndex = paths[paths.length-1] %>
+
+<% var breadcrumbItems = []%>
+
+<% var menu = site.data.nav[0].items %>
+
+<% for (var item in menu){ %>
+<% var linkLevel1 = "/" + menu[item].index %>
+
+    <% if (menu[item].link){ %>
+    <% linkLevel1 = menu[item].link %>
+    <% } %>
+
+
+        <% foundByIndex = false %>
+        <% for (var item2 in menu[item].items){ %>
+        <% var linkLevel2 = linkLevel1 + "/" + menu[item].items[item2].index %>
+
+            <% if (menu[item].items[item2].link){ %>
+            <% linkLevel2 = menu[item].items[item2].link %>
+            <% } %>
+
+
+                <% for (var item3 in menu[item].items[item2].items){ %>
+                <% var linkLevel3 = linkLevel2 + "/" + menu[item].items[item2].items[item3].index %>
+
+
+                    <% if (menu[item].items[item2].items[item3].link){ %>
+                    <% linkLevel3 = menu[item].items[item2].items[item3].link %>
+                    <% } %>
+
+                    <% if (menu[item].items[item2].items[item3].index == currentIndex || foundByIndex){ %>
+                    <!--<a href="<%= linkLevel3 %>" > <%= menu[item].items[item2].items[item3].title %> </a>-->
+                    <% foundByIndex = true %>
+                    <% breadcrumbItems.push({"title":menu[item].items[item2].items[item3].title, "href":linkLevel3}) %>
+                    <% break; %>
+                    <% } %>
+
+                <% } %>
+
+
+            <% if (menu[item].items[item2].index == currentIndex || foundByIndex){ %>
+            <!--<a href="<%= linkLevel2 %>" > <%= menu[item].items[item2].title %> </a>-->
+            <% foundByIndex = true %>
+            <% breadcrumbItems.push({"title":menu[item].items[item2].title, "href":linkLevel2}) %>
+            <% break %>
+            <% } %>
+
+        <% } %>
+
+    <% if (menu[item].index == currentIndex || foundByIndex){ %>
+    <!--<a href="<%= linkLevel1 %>" > <%= menu[item].title %> </a>-->
+    <% foundByIndex = true %>
+    <% breadcrumbItems.push({"title":menu[item].title, "href":linkLevel1}) %>
+    <% break %>
+    <% } %>
+
+
+<% } %>
+
+
+<ol class="breadcrumb">
+    <% breadcrumbItems.reverse() %>
+    <% breadcrumbItems.forEach(function (breadcrumbItem) { %>
+        <li><a href="<%= breadcrumbItem.href %>"><%= breadcrumbItem.title %></a></li>
+    <%}) %>
+</ol>
