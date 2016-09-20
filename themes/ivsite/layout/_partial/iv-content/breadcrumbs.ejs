@@ -60,10 +60,11 @@
 
 <% } %>
 
-
-<ol class="breadcrumb">
-    <% breadcrumbItems.reverse() %>
-    <% breadcrumbItems.forEach(function (breadcrumbItem) { %>
-        <li><a href="<%= breadcrumbItem.href %>"><%= breadcrumbItem.title %></a></li>
-    <%}) %>
-</ol>
+<% if (breadcrumbItems.length > 0){ %>
+    <ol class="breadcrumb">
+        <% breadcrumbItems.reverse() %>
+        <% breadcrumbItems.forEach(function (breadcrumbItem) { %>
+            <li><a href="<%= breadcrumbItem.href %>"><%= breadcrumbItem.title %></a></li>
+        <%}) %>
+    </ol>
+<% } %>
