@@ -1,11 +1,19 @@
-var lock = new Auth0Lock('9akDZGVintjekbwMaHKFdwHYpKfahkbr', 'panser.eu.auth0.com', {
+var lock = new Auth0Lock('SLaOAbGM0BzlcozfVoqDYuZJXKlIj19G', 'panser.auth0.com', {
     theme: {
-        logo: "/img/iv-logo.png",
+        // logo: "/img/iv-logo.png",
         // primaryColor: 'green'
     },
     languageDictionary: {
         // emailInputPlaceholder: "something@youremail.com",
-        title: "Integrity Vision",
+        title: "Gostroy",
+    },
+    auth: {
+        redirectUrl: 'http://localhost:4000/',
+        responseType: 'token',
+        authParams: {
+            // state: '/',
+            scope: 'openid profile'
+        }
     }
 });
 
