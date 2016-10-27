@@ -2,4 +2,5 @@
 title:  "IBM BPM"
 date:   2016-09-01 09:58:00 +0300
 ---
-**IBM Business Process Manager** - это платформа комплексного управления бизнес-процессами, предоставляющая общую картину для управления бизнес-процессами. Она предоставляет инструментарий и среду выполнения для проектирования, выполнения, отслеживания и оптимизации процессов, а также базовую поддержку системной интеграции. Продукт может быть настроен для поддержки различных уровней сложности задачи и управления бизнес-процессами.
+**IBM Business Process Manager** is a field in operations management that focuses on improving corporate performance by managing and optimizing a company's business processes.[1] It can therefore be described as a "process optimization process." It is argued that BPM enables organizations to be more efficient, more effective and more capable of change than a functionally focused, traditional hierarchical management approach.[2] These processes can impact the cost and revenue generation of an organization.
+                                 

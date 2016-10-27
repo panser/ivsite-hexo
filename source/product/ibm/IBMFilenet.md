@@ -2,4 +2,6 @@
 title:  "IBM FileNet"
 date:   2016-09-01 09:57:00 +0300
 ---
-IBM FileNet (полное название IBM FileNet P8) является всемирно признанной (лидер по версиям Gartner и Forrester) платформой для создания СЭД и ECM-систем, решений для управления неструктурированной корпоративной информацией и данными предприятия.
+IBM FileNet  a company acquired by IBM, developed software to help enterprises manage their content and business processes. The FileNet P8 platform, their flagship system, is a framework for developing custom enterprise systems, offering much functionality out of the box and capable of being customized to manage a specific business process.
+            
+            

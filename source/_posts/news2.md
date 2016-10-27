@@ -1,20 +1,16 @@
 ---
 layout: post
-title:  " о важных датах в ИТ-истории"
+title:  "$35 DIRECTV NOW STREAMING TV SERVICE LAUNCHES IN NOVEMBER WITH 100 CHANNELS"
 date:   2016-08-29 12:58:00 +0300
 tag: news
 ---
 
-Традиционно, по пятницам мы рассказываем о важных датах в ИТ-истории этой недели. И сегодня в нашей рубрике: изобретение процессора, основание Google, первая персональная ЭВМ, и Mario Bros.
+Paying attention pays off! Amid all the excitement about AT&T’s planned acquisition of Time Warner, AT&T CEO Randall Stephenson revealed that DirecTV Now will roll out in November. AT&T announced the service in March as one of three online streaming services the company planned to introduce.
 
 <!--more-->
 
- 5 сентября 1973 года инженер Гари Бун получил патент на однокристальный процессор. Таким образом, компании Texas Instruments (в которой работал Бун) принадлежит первенство в идее размещения процессора и его кеш-памяти на единственной интегральной схеме — уже тогда такое производство сделало компьютеры намного доступнее и эффективнее.
+ When it first teased DirecTV Now, AT&T said there would be a variety of packages that included both live and on-demand content. There would also be premium add-ons just like your regular cable subscription, as well as services like Sling TV. During an interview with CNBC on Monday, Stephenson said DirecTV Now will offer a 100 channel bundle, and at the Wall St. Journal's digital conference on Tuesday, he revealed that the DirecTV now bundle would cost just $35, with unlimited mobile data for on-the-go viewing—presumably for AT&T subscribers only. 
+ 
+ It’s not clear if DirecTV Now will have other, smaller bundles than the 100 channel lineup, or if this would be the baseline. By comparison, Sling TV’s core packages list less than 50 channels that vary based on whether you buy the single- or multiple-device subscription, with pricing generally falling between $20 and $40. PlayStation Vue, meanwhile, offers just under 60 channels in its $40 base package, or 100 channels for $55 per month. Check out our Sling TV vs. PlayStation Vue showdown for more details on those services.
 
- 5 сентября 1998 года зарегистрирована корпорация Google. Свою деятельность будущий поисковый гигант начал двумя годами раньше, но в 1996-м это был всего лишь студенческий исследовательский проект по созданию интернет-поиска. Изначально научным проектом занимались два студента Стэнфордского университета — Сергей Брин и Ларри Пейдж, которые совместно разработали алгоритм PageRank. Этот алгоритм, который научился вычислять «важность» каждой страницы в интернете, и стал причиной лидерства Google среди всех аналогичных поисковых систем.
-
-8 сентября 1973 года Micro Computer Machines объявила о разработке первой в мире персональной ЭВМ. Компьютер будущего создавался Мерсом Куттом, канадским учёным украинского происхождения.Машина весила 9 кг, а встроенный монитор мог выводить лишь одну строку текста. В ПЗУ был интерпретатор языка АПЛ, а магнитные касеты служили виртуальной памятью объемом по 100 КБ. Самая простая модель с 2 КБ ОЗУ стоила 4950 долларов, а за вариант с 8 КБ и двумя кассетами просили 9800 долларов.
-
-9 сентября 1983 года Nintendo выпустила первую версию игры Mario Bros. для восьмибитной платформы Nintendo Entertainment System. Изначально игра задумывалась как ответвление от серии Donkey Kong, в ней Марио сменил профессию с плотника на сантехника. Продажи первой игры шли не самым лучшим образом из-за кризиса игровой индустрии. Однако портирование на все возможные платформы принесло значительный рост популярности и прибыли. Дальнейшим продолжением серии стала легендарная Super Mario Bros., вышедшая в 1985 году.
-
-![](https://scontent-frt3-1.xx.fbcdn.net/t31.0-8/14311263_1369775076367774_2959438942600139376_o.png)
+![](http://core0.staticworld.net/images/article/2014/05/att_directv-100268392-large.jpg)

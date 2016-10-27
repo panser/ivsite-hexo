@@ -1,42 +1,22 @@
 ---
-title:  "Архитектор ESB"
+title:  "Architector ESB"
 date:   2016-08-25 17:16:00 +0300
 
 ---
-Что надо делать:
- - Проектирование решений на IBM Integrtation Bus (IIB), IBM WebSphere Enterprise
-- Service Bus (WESB) и IBM WebSphere Process Server (WPS)
-- Оценка сроков проекта
-- Участие в pre-sale
-- Проектирование решений на JBoss Fuse
-- Участие в разработке﻿
+**Enterprise Solutions Architect** (VDOT 478173) - 
+VDOT's Information Technology Division is seeking an experienced solution architect to participate with the architecture team. 
 
-Мы ищем специалиста который имеет:
-- Практический опыт работы с IBM Integrtation Bus или IBM WebSphere Service Bus или IBM WebSphere Process Server от 2-х лет
-- Опыт проектирование систем класса middleware от 2х лет
-- Java core, OOP от 2-х лет
-- WSDL, REST, XML, XSLT, XPath от 2-х лет
-- Понимание архитектуры ОС Linux
-- Понимание lifecycle процесса разработки
-- Понимание протоколов HTTP, AMQP, SOAP
-- Понимание принципов service oriented architecture (SOA)
-- Знание Баз данных (SQL запросы, нормализация БД)
-- Знание Enterprise Integration Patterns﻿
+**Minimum Requirements:** 
+Experience with Service Oriented Architecture (SOA) principles and practices. Must have designed and implemented reusable services using SOA principles Required - **5 Years**
 
-Было бы отлично:
-- ﻿Понимание не функциональных требований к решениям на ESB и знание способов их реализации
-- Сертификация по продуктам IBM
-- Опыт с платформой JBoss Fuse
-- Знание банковской отрасли или телекома (опыт работы с соответствующими системами)
-- Опыт работы со Spring Boot или Spring MVC
-- Опыт работы с индустриальными форматами передачи информации (ISO8583, Swift)
-- Опыт работы с Sparx Enterprise Architect
 
-От нас тебе:
-- Профессиональное развитие (оплата курсов и сертификатов + консультации наших специалистов));
-- Официальное оформление;
-- Отпуск 24 календарных дня;
-- Оплачиваемый больничный (больничные листы мы не требуем - очереди отменяются);
-- Комфортное рабочее место;
-- Корпоративные мероприятия и тимбилдинги;
-- А также разнообразные плюшки в виде кофе, печенек, настольного футбола и тд.
+Experience with Service discovery, delivery and cataloging Required - **2 Years**
+
+
+Experience creating data services from the master database and make those services available to the entire enterprise Required - **5 Years**
+
+
+Experience with secure data gateways Required - **3 Years**
+
+
+Experience with Integrating solutions using SOAP, REST and data adapter APIs Required - **3 Years**

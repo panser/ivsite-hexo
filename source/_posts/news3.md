@@ -1,18 +1,15 @@
 ---
 layout: post
-title:  "Когда тебе вернули багу"
+title:  "36% OFF 1BYONE AMPLIFIED HDTV ANTENNA WITH 50 MILES RANGE - DEAL ALERT"
 date:   2016-08-29 12:58:00 +0300
 tag: news
 ---
 
-Когда тебе вернули багу
-
+This super thin HD antenna averages 4 out of 5 stars from nearly 3,300 people on Amazon (read reviews). With a regular price of $46.99, this 36% discount puts the list price at $29.99. 
 <!--more-->
 
-Скажи, что зол и быть войне
-И начинай искать усердней
-Вдвойне.😄
-Привет, Тестировщики.😉 Поздравляем вас с профессиональным праздником и желаем расправляться со всеми багами легко и весело!
-Спасибо, что делаете мир лучше!
+Cut the cord and save piles of money. This antenna will allow you to watch broadcast high-definition TV stations such as ABC, CBS, NBC, PBS and Fox for free. It's super flat, easy to hide, and simple to set up. It comes with an extra long 20 foot coax cord, and optional detachable signal amplifier.  If you've been thinking about freeing yourself from the cable company, click over to Amazon now and consider this significantly discounted HD antenna from 1byone.
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/14222080_1369553863056562_173629322806808538_n.jpg?oh=3c114e4f78a99e6c3a30718c910d512e&oe=5839E444)
+This story, "36% off 1byone Amplified HDTV Antenna With 50 Miles Range - Deal Alert" was originally published by TechConnect.
+
+![](http://core0.staticworld.net/images/article/2016/05/hd_antenna-100660835-large.jpg)
