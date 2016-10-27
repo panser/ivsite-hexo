@@ -21,17 +21,20 @@ var btn_login = document.getElementById('btn-login');
 var btn_logout = document.getElementById('btn-logout');
 
 btn_login.addEventListener('click', function() {
-    lock.show();
+    lock.show({
+        language: "ru"
+    });
 });
 
 lock.on("authenticated", function(authResult) {
     lock.getProfile(authResult.idToken, function(error, profile) {
         if (error) {
             // Handle error
-            console.log("ERROR during auth0 auth")
+            console.log("ERROR during auth0 `lock.getProfile`")
             return;
         }
         localStorage.setItem('id_token', authResult.idToken);
+        localStorage.setItem("profile", JSON.stringify(profile));
         // Display user information
         show_profile_info(profile);
     });
